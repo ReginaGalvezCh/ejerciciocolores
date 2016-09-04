@@ -1,0 +1,20 @@
+.contenedor-caja{
+	border: 2px solid black;
+
+}
+.amarillo{
+    height: 100px;
+    width: 25%;
+    background-color: #F7FE2E;
+}
+.azul{
+	height: 100px;
+    width: 25%;
+    background-color: #4A90D2;
+}
+.pink{
+	height: 100px;
+    width: 25%;
+    background-color: #DF0174;
+
+}
